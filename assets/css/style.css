@@ -42,3 +42,8 @@ h1 {
     background-color: darkgreen;
     border-radius: 8px;
 }
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 
+}
